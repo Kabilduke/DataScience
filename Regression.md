@@ -24,3 +24,15 @@ $$ c(intercept) = y^{Mean} + m x^{Mean} $$
 
 $$ y = Xw + c $$
 
+>>> - X = Matrix of $n * f$ (No. of Samples * No. of Features)
+
+> Normal Equation $O(n^3)$:
+
+>> Formula:
+
+> Least Squares Methods:
+
+>> Formula:
+
+
+
