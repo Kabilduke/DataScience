@@ -1,0 +1,2 @@
+Normalization:
+Used to scaled the features from 0 to 1
