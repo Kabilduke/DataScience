@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 
 > Formula:
 
-$$ y = mx+c $$
+$$ y = m.x+c $$
 
 $$m(slope) = \frac{Rise}{Run}, \Rightarrow  \frac{y_2 - y_1}{x_2 - x_1}$$
 
@@ -22,7 +22,7 @@ $$ c(intercept) = y^{Mean} + m x^{Mean} $$
 
 > Formula:
 
-$$ y = Xw + c $$
+$$ y = X.w + c $$
 
 >>> - X = Matrix of $n * f$ (No. of Samples * No. of Features)
 
@@ -30,9 +30,22 @@ $$ y = Xw + c $$
 
 >> Formula:
 
+$$w(weights) = (X^TX)^{-1}X^Ty$$
+
 > Least Squares Methods:
 
 >> Formula:
 
+
+### Logistic Regression
+```
+from sklearn.linear_model import LogisticRegression
+```
+- Supervised Learning algorithm
+- Classification (Binomial, Multiclass, Ordinal)
+
+> Formula:
+
+$$Sigmoid(\sigma(y)) = \frac{1}{1+e^{-y}} $$
 
 
