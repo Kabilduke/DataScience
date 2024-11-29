@@ -1,4 +1,7 @@
 ## ROC and AUC:
+```
+from sklear.metrics import roc_auc_score
+```
 - Calculated based on the threshold values.
 - Used for Binary classification (Cancer prediction ...etc).
 
