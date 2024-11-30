@@ -1,3 +1,22 @@
+### Recall:
+
+> Formula:
+
+$$ Recall = \frac{TP}{TP + FP} $$
+
+### Precision:
+
+> Formula:
+
+$$ Precision = \frac{TP}{TP +FN} $$
+
+### Accuracy:
+
+> Formula:
+
+$$ Accuracy = \frac{TP+ TN}{TP+ FP+ TN+ FN} $$
+
+
 ## ROC and AUC:
 ```
 from sklearn.metrics import roc_curve
@@ -27,4 +46,8 @@ $$ FPR = \frac{FP}{FP + TN} $$
 from sklearn.metrics import auc
 ```
 
-> Diagram:
+>Formula:
+
+$$ AUC  = \frac{Recall + Sensitivity}{2} $$
+
+### Specificity:
