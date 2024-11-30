@@ -54,7 +54,7 @@ from sklearn.metrics import auc
 
 >Formula:
 
-$$ AUC  = \frac{Recall + Sensitivity}{2} $$
+$$ AUC  = \frac{Recall + Sensibility}{2} $$
 
 ## Specificity:
 
