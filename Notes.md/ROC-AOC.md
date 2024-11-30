@@ -23,5 +23,8 @@ $$ FPR = \frac{FP}{FP + TN} $$
 
 
 ### AUC (Area Under the Curve):
+```
+from sklearn.metrics import auc
+```
 
 > Diagram:
