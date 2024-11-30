@@ -1,16 +1,22 @@
-### Recall:
+## Recall:
 
 > Formula:
 
 $$ Recall = \frac{TP}{TP + FP} $$
 
-### Precision:
+## Precision:
 
 > Formula:
 
 $$ Precision = \frac{TP}{TP +FN} $$
 
-### Accuracy:
+## F1 Score
+
+> Formula:
+
+$$ f1 Score = 2 * \frac{Precision * Recall}{Precision + Recall} $$
+
+## Accuracy:
 
 > Formula:
 
@@ -50,4 +56,8 @@ from sklearn.metrics import auc
 
 $$ AUC  = \frac{Recall + Sensitivity}{2} $$
 
-### Specificity:
+## Specificity:
+
+> Formula:
+
+$$ Specificity = \frac{TN}{TN + FP} $$
