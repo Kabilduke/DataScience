@@ -1,5 +1,8 @@
 ## ROC and AUC:
 ```
+from sklearn.metrics import roc_curve
+```
+```
 from sklear.metrics import roc_auc_score
 ```
 - Calculated based on the threshold values.
