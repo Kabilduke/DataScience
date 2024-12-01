@@ -1,3 +1,10 @@
+> Note:
+
+- True Positive = $a$(Yes) as $p$(Yes) 
+- True Negative = $a$(No) as $p$(No) 
+- False Positive = $a$(No) as $p$(Yes) 
+- False Negative = $a$(Yes) as $p$(No) 
+
 ## Recall:
 
 > Formula:
