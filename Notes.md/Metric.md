@@ -62,9 +62,9 @@ from sklearn.metrics import auc
 - Used to measure the drug exposure, how much and how long the drug stayed in a body.
 - Mathmetical method to calculate AUC - Trapeziodal rule
 
->Formula:
+> Formula:
 
-$$ AUC  = \frac{Recall + Sensibility}{2} $$
+$$ AUC = \sum (x_{i+1} - x_i) * \frac{(y_i + y_{i+1})}{2} $$
 
 ## Specificity:
 
