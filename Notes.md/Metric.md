@@ -46,11 +46,11 @@ from sklear.metrics import roc_auc_score
 
 >> True Positive Rate
 
-$$ TPR = \frac{TP}{TP + FN} $$
+$$ y \rightarrow TPR = \frac{TP}{TP + FN} $$
 
 >> False Positive Rate
 
-$$ FPR = \frac{FP}{FP + TN} $$
+$$ x \rightarrow FPR = \frac{FP}{FP + TN} $$
 
 
 
