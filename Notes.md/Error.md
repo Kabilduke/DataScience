@@ -9,3 +9,6 @@
 
 ### R-Square
 > Formula:
+
+
+Reference : [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/4-regression)
