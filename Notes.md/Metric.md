@@ -6,18 +6,23 @@
 - False Negative = $a$(Yes) as $p$(No) 
 
 ## Recall:
+Recall is a metric that measures the proportion of positive cases that the model identified correctly.
+-  Of predicted positives, how many are correct?
 
 > Formula:
 
 $$ Recall = \frac{TP}{TP + FP} $$
 
 ## Precision:
+Precision is a similar metric to recall, but measures the proportion of predicted positive cases where the true label is actually positive.
+- Of actual positives, how many are correctly identified?
 
 > Formula:
 
 $$ Precision = \frac{TP}{TP +FN} $$
 
 ## F1 Score
+F1-score is an overall metric that combined recall and precision
 
 > Formula:
 
@@ -71,3 +76,9 @@ $$ AUC = \sum (x_{i+1} - x_i) * \frac{(y_i + y_{i+1})}{2} $$
 > Formula:
 
 $$ Specificity = \frac{TN}{TN + FP} $$
+
+## Sensitivity:
+
+> Formula:
+
+$$ Sensitivity = \frac{TP}{TP + FN} $$
