@@ -22,7 +22,7 @@ $$ RMSE = \sqrt{MSR} $$
 ### R-Square
 > Formula:
 
-$$ R^2 = 1 - \frac{\sum(y_i - y^p_i)^2}{\sum(y_i - Y_i)}$$
+$$ R^2 = 1 - \frac{\sum(y_i - y^p_i)^2}{\sum(y_i - Y_i)} \quad ,(0 - 1) $$
 
 - $Y_i$ = Mean of Actual value
 
