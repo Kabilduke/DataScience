@@ -9,3 +9,6 @@
 
 ## Mode
 > Formula:
+
+## Standard Deviation
+> Formula
