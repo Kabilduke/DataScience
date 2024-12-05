@@ -1,13 +1,15 @@
-## Mean
+## Mean (μ)
 > Formula:
 
-$$ X = \frac{1}{n} \sum_{i=1}^n x_i $$
+$$ μ = \frac{1}{n} \sum_{i=1}^n x_i $$
 
 ## Medium
 > Formula:
 
 ## Variance
 > Formula:
+
+$$ σ^2 = \sum \frac{(x_i - μ)^2}{n} $$
 
 ## Mode
 > Formula:
