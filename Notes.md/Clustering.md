@@ -1,0 +1,2 @@
+## Centroid ($k$ updata)
+> Formula:
