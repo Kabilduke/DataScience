@@ -1,0 +1,2 @@
+## Naive Bayes' Theorem
+> Formula:
