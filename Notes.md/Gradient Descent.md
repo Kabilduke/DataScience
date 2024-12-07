@@ -6,7 +6,7 @@ $$ w = w - lr.\frac {\partial{L}} {\partial{w}}$$
 
 - $w$ : Weights
 - $lr$: Learning Rate
-- $L$: Loss function
+- $L$: Loss function $(MSE)$
 
 #### Types of Gradient Descent
 - Batch
