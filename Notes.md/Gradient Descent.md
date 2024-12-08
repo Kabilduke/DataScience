@@ -16,5 +16,5 @@ If $\frac {\partial{L}} {\partial{w}}$ is negative the cost functions is going $
 
 #### Types of Gradient Descent
 - Batch
-- Stochastic 
+- Stochastic $(Non-Convex)$
 - Mini-Batch
