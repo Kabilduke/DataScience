@@ -1,5 +1,6 @@
 ### Gradient Descent
-Used to minimize the $(error|difference)$ between actual value and predicted value. It is used to train Neural Networks.
+Used to minimize the $(error|difference)$ between actual value and predicted value. It is used to train Neural Networks. This helps to find the gobal minimum in higher dimensions more efficiently.
+
 > Formula:
 
 $$ w = w - lr.\frac {\partial{L}} {\partial{w}}$$
