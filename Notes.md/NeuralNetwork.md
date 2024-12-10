@@ -10,6 +10,13 @@ $$ Y^p = Sigmoid(Z^{(2)}) $$
 - $W^1$ :  Weights from  input to hidden layer 
 - $W^2$ :  Weights from  hidden to output layer
 
+#### Cost Function:
+
+$$ Error = \frac{1}{2} \sum (y - y^p)^2 $$
+
+$y$ : Actual Value \
+$y^p$: Predicted Value
+
 ```
 import numpy as np
 ```
