@@ -87,14 +87,3 @@ for epoch in range(1000):
 predictions = Neural_net.forward(inputs)
 print("Predictions:",predictions)
 ```
-
-### Gradient Descent
-###### Minimizing the cost function using Gradient Descent to find the gobal minimium
-> Formula
-
-$$ w = w - lr.\frac {\partial{L}} {\partial{w}} $$
-
-Note :\
-If $\frac {\partial{L}} {\partial{w}}$ is positive(+) the cost functions is going $Up$.
-
-If $\frac {\partial{L}} {\partial{w}}$ is negative(-) the cost functions is going $Down$.
