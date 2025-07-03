@@ -1,4 +1,6 @@
 ## Regularization:
+Overfitting:
+Higher accuracy in training, but low accuracy in testing.
 To reduce overfitting by penalization larger weights. Two types of regularization 
 - LASSO(l1)
 - Ridge(l2)
@@ -12,8 +14,11 @@ To reduce overfitting by penalization larger weights. Two types of regularizatio
 ### L2-Regularization (Ridge)
 > Formula
 
+- Encourages smaller weights, but doesn't zero them out!
+
 
 
 
 $Extras:$
+- L2 is most commmonly used in deep learning
 - Dropout layers is also used for reducing overfitting
