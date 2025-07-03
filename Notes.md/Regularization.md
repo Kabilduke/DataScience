@@ -11,3 +11,9 @@ To reduce overfitting by penalization larger weights. Two types of regularizatio
 
 ### L2-Regularization (Ridge)
 > Formula
+
+
+
+
+$Extras:$
+- Dropout layers is also used for reducing overfitting
