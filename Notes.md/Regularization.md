@@ -1,3 +1,8 @@
+## Regularization:
+To reduce overfitting by penalization larger weights. Two types of regularization 
+- LASSO(l1)
+- Ridge(l2)
+
 ### L1-Regularization (LASSO)
 > Formula
 
