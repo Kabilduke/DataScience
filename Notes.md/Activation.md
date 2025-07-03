@@ -1,0 +1,4 @@
+## Relu
+## Sigmoid
+## elu
+## Tanh
