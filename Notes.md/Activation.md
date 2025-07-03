@@ -1,5 +1,5 @@
 ## Relu
-> Formula:\
+> Formula:
 
 $$A\ = max(0, x)$$
 
