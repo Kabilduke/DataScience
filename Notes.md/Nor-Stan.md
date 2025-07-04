@@ -24,3 +24,6 @@ $$z = \frac{x - μ}{σ}$$
 Where:
 > Mean $(μ)$ = 0 \
 > Standard deviation $(σ)$ = 1
+
+$Note$:
+- BatchNormalization is also used in neural network for increasing the training speed. 
