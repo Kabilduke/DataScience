@@ -1,5 +1,5 @@
 ## Regularization:
-```
+```py
 from tensorflow.keras import regularizers
 ```
 Overfitting:
@@ -9,8 +9,10 @@ To reduce overfitting by penalization larger weights. Two types of regularizatio
 - Ridge(l2)
 
 ### L1-Regularization (LASSO)
-```
-kernel_regularizers = regularizers.l1(0.001)
+```py
+kernel_regularizer = regularizers.l1(0.01)
+bias_regularizer = regularizers.l1(0.01)
+activity_regularizer = regularizers.l1(0.01)
 ```
 > Formula
 
@@ -18,8 +20,10 @@ kernel_regularizers = regularizers.l1(0.001)
 - Sparse model some value become zero's.
 
 ### L2-Regularization (Ridge)
-```
-kernel_regularizers = regularizers.l2(0.001)
+```py
+kernel_regularizer = regularizers.l2(0.01)
+bias_regularizer = regularizers.l2(0.01)
+activity_regularizer = regularizers.l2(0.01)
 ```
 > Formula
 
