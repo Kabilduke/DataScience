@@ -3,10 +3,13 @@
 ## Optimizers:
 - An optimizer is an alogrithm to update the weights based on the loss gradient.
 
-### Adam
-- Adaptive Learning Rate update.
-### RMSprop
-
+#### $1.$ SGD $(Stochastic\ Gradient\ Desent)$
+#### $2.$ Adam
+- Adaptive Moment Estimation.
+#### $3.$ RMSprop
+- Adaptive Learning Rate based on magnitude.
+#### $4.$ AdaGrad
 
 $Notes$:
 - 0.001 Most popular for deep learning
+- Adam most commonly used fast, stable and adaptive especially for deep learning.
