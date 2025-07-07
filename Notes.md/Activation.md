@@ -6,7 +6,7 @@ $$f(x)\ = max(0, x)$$
 ## Sigmoid
 > Formula:
 
-$$f(x)\ = {1\over{1+e^-x}}$$
+$$f(x)\ = {1\over{1+e^{-x}}}$$
 ## elu
 ## Tanh
 > Formula:
