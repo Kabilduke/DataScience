@@ -7,6 +7,7 @@ $$f(x)\ = max(0, x)$$
 > Formula:
 
 $$f(x)\ = {1\over{1+e^{-x}}}$$
+## Softmax
 ## elu
 ## Tanh
 > Formula:
