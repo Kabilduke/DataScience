@@ -6,6 +6,10 @@ $$ μ = \frac{1}{n} \sum_{i=1}^n x_i $$
 ## Medium
 > Formula:
 
+$$ Odd =  \frac{n+1}{2} $$
+
+$$ Even =  \frac{(\frac{n}{2}) + (\frac{n}{2}+1)}{2} $$
+
 ## Variance
 > Formula:
 
