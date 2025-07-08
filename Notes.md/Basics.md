@@ -16,3 +16,5 @@ $$ σ^2 = \sum \frac{(x_i - μ)^2}{n} $$
 
 ## Standard Deviation
 > Formula
+
+$$ σ = \sqrt{\frac{1}{n} \sum_{i-1}^n (x_i - \bar{x})^2}$$
