@@ -10,3 +10,4 @@ random_state = seed
 ```py
 random_state = 42, stratify = y
 ```
+- This ensures that both sets have the same class ratio.
