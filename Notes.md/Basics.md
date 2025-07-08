@@ -18,6 +18,8 @@ $$ σ^2 = \sum \frac{(x_i - μ)^2}{n} $$
 ## Mode
 > Formula:
 
+$$ Mode\ =\ Value(s)\ with\ the\ highest\ Frequency$$
+
 ## Standard Deviation
 > Formula
 
