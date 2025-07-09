@@ -1,4 +1,4 @@
-### $Weight\ Balancing$ = Adding more weights to minority class. 
+### Weight Balancing = $Adding\ more\ weights\ to\ minority\ class.$
 > Formula:
 >> Example:\
 0 - 3139 \
