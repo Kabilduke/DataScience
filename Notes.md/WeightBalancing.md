@@ -1,6 +1,6 @@
 ### $Weight\ Balancing$ = Adding more weights to minority class. 
 > Formula:
-
+>> Example:\
 0 - 3139 \
 1 - 1993
 
