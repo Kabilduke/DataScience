@@ -82,3 +82,9 @@ $$ Specificity = \frac{TN}{TN + FP} $$
 > Formula:
 
 $$ Sensitivity = \frac{TP}{TP + FN} $$
+
+# Clustering Matric
+### Adjusted Rand index
+>Formula:
+
+$$ ARI = \frac{Index - Expected\ index}{Max\ Index - Expected\ index} $$
