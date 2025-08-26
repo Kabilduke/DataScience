@@ -7,5 +7,5 @@ Kaggle Profile:
 
 
 > References: \
-Youtube: [Machine Learning Algorithms](https://www.youtube.com/watch?v=BT6Aw6Q75Yg)
+Youtube: [Machine Learning Algorithms](https://www.youtube.com/watch?v=BT6Aw6Q75Yg) \
 CodeFreeCamp: [Essential Data Science Concepts](https://www.youtube.com/watch?v=PcbuKRNtCUc)
