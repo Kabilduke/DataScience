@@ -23,4 +23,4 @@ $$ Mode\ =\ Value(s)\ with\ the\ highest\ Frequency$$
 ## Standard Deviation
 > Formula
 
-$$ σ = \sqrt{\frac{1}{n} \sum_{i-1}^n (x_i - \bar{x})^2}$$
+$$ σ = \sqrt{\frac{1}{n} \sum_{i-1}^n (x_i - μ)^2}$$
