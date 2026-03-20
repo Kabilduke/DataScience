@@ -4,7 +4,7 @@ from sklearn.preprocessing import MinMaxScaler
 ```
 - Used to scale the features from range (0 to 1).
 - KNN, K-Means, Linear & Logistic Regression, Gradient Decent.
-- Use for Non-Gaussian Data
+- Use for Non-Gaussian data (Ofter Skewed Data)
   
 Formula:
 
