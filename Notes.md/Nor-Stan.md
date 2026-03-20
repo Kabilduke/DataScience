@@ -28,4 +28,4 @@ Where:
 > Standard deviation $(σ)$ = 1
 
 $Note$:
-- BatchNormalization is also used in neural network for increasing the training speed. 
+- BatchNormalization is used in neural network for increasing the training speed. 
