@@ -1,3 +1,11 @@
+#### What is Neural Network:
+- Low Granularity:\
+  Neural Networks has neurons inspired by brain
+- Medium Granularity:\
+  Neural Networks consist of layers, neurons, weights and activation function
+- High Granularity:\
+  Neural Networks use forward propagation, backward propagation, gradient Descent and loss function 
+
 ##### Two layer Neural Net-work:
 
 $$ Z^{(1)} = XW^{(1)} ------- (1) $$
